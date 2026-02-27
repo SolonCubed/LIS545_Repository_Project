@@ -1,0 +1,47 @@
+README — Gamblification, Youth and Digital Games: A Dataset on Gaming Practices and Emotional Impacts Among Spanish Young People in Spain
+
+Version: v1.0
+Date: 2025-10-28
+License: CC BY 4.0
+Corresponding author: darandaj@uoc.edu
+
+Repository & Identifier
+-----------------------
+Repository: Figshare
+DOI: https://doi.org/10.6084/m9.figshare.30467558.v2
+Please cite the dataset using the citation below once the DOI is available.
+
+Preferred Citation
+------------------
+Aranda, D., Fernández-de-Castro, P.; & Sáenz-Leandro, R. (2025). Gamblification, Youth and Digital Games: A Dataset on Gaming Practices and Emotional Impacts Among Spanish Young People in Spain. [Data set]. [Figshare]. DOI:https://doi.org/10.6084/m9.figshare.30467558.v2.
+
+Short Description
+----------------
+Cross-sectional survey of individuals aged 16–25 residing in Spain (n = 1,000), fielded in June 2025. The dataset captures demographics, gaming practices, exposure to gamblified mechanics (e.g., loot boxes, randomized rewards, time-limited offers), spending bands, emotional responses, and perceptions among non-players. Data are shared as CSV with a complete codebook.
+
+File Inventory
+--------------
+1) gamblification_youth_spain_2025.csv
+   - Main dataset. 1,000 rows × 79 columns. UTF-8 CSV.
+
+2) Codebook_gamblification_youth_spain_2025_v2.xlsx
+   - Variable names, labels, data types, value maps, missing value conventions, routing notes, item counts by block.
+
+3) questionnaire_es.pdf
+   - Full Spanish questionnaire (final administered version).
+
+4) README.txt
+   - This file.
+
+-----------
+How to Cite
+-----------
+When using this dataset in publications, please cite it (with DOI) and include a reference to the associated Data Descriptor in Sci. Data (if/when published).
+
+Contact
+-------
+For questions about the dataset or corrections to metadata, please contact the corresponding author at: darandaj@uoc.edu
+
+Changelog
+---------
+v1.0 — Initial public release: CSV, Codebook (v2), questionnaire (ES), README.
